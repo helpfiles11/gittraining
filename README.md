@@ -1,1 +1,2 @@
 # gittraining
+just for learning
